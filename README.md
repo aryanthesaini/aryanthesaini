@@ -3,6 +3,6 @@
 <h3 align="center">Computer Science student</h3>
 
 
-- 📫 How to reach me **aryan.saini.e21@nsut.ac.in**
+- Reach out to me here: **aryan.saini.e21@nsut.ac.in**
 
-- ⚡ Fun fact **87 is divisible by 29**
+
