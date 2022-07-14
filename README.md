@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Azael-Dev/Azael-Dev/master/coding.gif)](https://www.aryansaini.me/)
+[![MasterHead](https://media.giphy.com/media/yr7n0u3qzO9nG/giphy.gif)](https://www.aryansaini.me/)
 
 
 
